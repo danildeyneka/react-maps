@@ -1,0 +1,12 @@
+#root {
+    max-width: 1480px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
